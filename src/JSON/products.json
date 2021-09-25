@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Holy Hell - Arquitects",
+        "price": 10.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/Architects-Holy-Hell.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Matriarch - Veil of Maya",
+        "price": 12.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/Veil-of-Maya-Matriarch.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Deep Blue - Parkway Drive",
+        "price": 11.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/Parkway-Drive-Deep-Blue.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Periphery II - Periphery",
+        "price": 14.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/Periphery-Periphery-II.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Dig Deep - After the Burial",
+        "price": 14.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/After-The-Burial-Dig-Deep.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Reprogram - Hacktivist",
+        "price": 5.99,
+        "stock":5,
+        "image": { "fields": { "file": { "url": "src/img/hacktivist-reprogram.jpeg" } } }
+      }
+    }
+  ]
+}
